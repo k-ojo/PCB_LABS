@@ -1,3 +1,5 @@
 ## 3D PCB View
 
-![3D PCD](captures/DrawSchematic.png)
+<p align="center">
+  <img src="captures/DrawSchematic.png" alt="3D PCB" width="500"/>
+</p>
