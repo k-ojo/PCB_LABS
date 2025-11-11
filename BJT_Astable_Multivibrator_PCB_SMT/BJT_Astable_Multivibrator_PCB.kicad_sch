@@ -1,0 +1,146 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3453c462-cbd7-41d9-83b6-547f4a6c68c9")
+	(paper "A4")
+	(title_block
+		(title "BJT_Astable_Multibrator_PCB")
+		(date "2025-10-31")
+		(company "Pilolo")
+		(comment 1 "Building oscillators ofr testing")
+	)
+	(lib_symbols)
+	(sheet
+		(at 99.06 34.29)
+		(size 49.53 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "479f507a-2d26-4987-b8a1-3fc699ae44a3")
+		(property "Sheetname" "power"
+			(at 99.06 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 99.06 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BJT_Astable_Multivibrator_PCB"
+				(path "/3453c462-cbd7-41d9-83b6-547f4a6c68c9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 35.56)
+		(size 44.45 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a4b79f48-b6a8-4b41-aa3a-559a15d20e18")
+		(property "Sheetname" "schematic_pcb"
+			(at 39.37 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematic_pcb.kicad_sch"
+			(at 39.37 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BJT_Astable_Multivibrator_PCB"
+				(path "/3453c462-cbd7-41d9-83b6-547f4a6c68c9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.45 34.29)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c2f26dda-fcc1-47fd-ad89-0fcce3d81f17")
+		(property "Sheetname" "Fudicials_and_mounting_holes"
+			(at 171.45 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fudicials_mounting.kicad_sch"
+			(at 171.45 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BJT_Astable_Multivibrator_PCB"
+				(path "/3453c462-cbd7-41d9-83b6-547f4a6c68c9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
