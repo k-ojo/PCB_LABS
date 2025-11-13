@@ -1,0 +1,76 @@
+** Drc report for DrawSchematic.kicad_pcb **
+** Created on 2025-11-07T20:23:59+0000 **
+
+** Found 19 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(148.5000 mm, 99.0000 mm): Via [VCC] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(144.5000 mm, 101.0000 mm): Via [VCC] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(150.0000 mm, 93.5000 mm): Via [Net-(U1-CV)] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(147.6730 mm, 92.3404 mm): Via [Net-(U1-CV)] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(144.7394 mm, 92.9749 mm): Via [Net-(U1-CV)] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(142.9657 mm, 93.5343 mm): Via [Net-(U1-CV)] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(144.9657 mm, 95.5343 mm): Via [Net-(D1-A)] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(147.6693 mm, 94.4000 mm): Via [Net-(D1-A)] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(149.0000 mm, 90.5000 mm): Via [DIS] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints; error
+    @(144.2157 mm, 94.7843 mm): Via [DIS] on F.Cu - B.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.5000 mm, 79.5000 mm): Segment on Edge.Cuts
+    @(156.5000 mm, 80.0500 mm): Reference field of H2
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.5000 mm, 79.5000 mm): Segment on Edge.Cuts
+    @(134.5000 mm, 80.0500 mm): Reference field of H1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.4500 mm, 91.0400 mm): Reference field of C2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.4500 mm, 93.5500 mm): Reference field of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.4500 mm, 96.0600 mm): Reference field of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.4500 mm, 98.5700 mm): Reference field of R3
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(142.4500 mm, 91.0400 mm): Reference field of C2
+    @(142.3094 mm, 90.4700 mm): Segment of C1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(142.4500 mm, 96.0600 mm): Reference field of R2
+    @(142.2127 mm, 95.5025 mm): Segment of R1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(142.4500 mm, 98.5700 mm): Reference field of R3
+    @(142.2127 mm, 98.0125 mm): Segment of R2 on F.Silkscreen
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(143.1750 mm, 91.4600 mm): Track [TRG] on F.Cu, length 3.0475 mm
+    @(143.2750 mm, 97.4900 mm): Pad 2 [TRG] of R2 on F.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **

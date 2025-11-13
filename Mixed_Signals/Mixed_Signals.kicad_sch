@@ -2,19 +2,12 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "65fc31cb-d80e-4d8e-8c07-0f1fb5255ca3")
+	(uuid "2e22a617-e9e9-4deb-b0d2-03da1faa5147")
 	(paper "A4")
-	(title_block
-		(title "555 Astable Multivibrator")
-		(date "2025-10-30")
-		(rev "V1.0")
-		(company "Pilolo")
-		(comment 1 "Test Project")
-	)
 	(lib_symbols)
 	(sheet
-		(at 48.26 95.25)
-		(size 45.72 25.4)
+		(at 33.02 144.78)
+		(size 41.91 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -27,9 +20,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "6ba07b56-cc61-4f9e-a22e-9cfd0fbea041")
-		(property "Sheetname" "555 timer"
-			(at 48.26 94.5384 0)
+		(uuid "0f27f492-723c-4b27-8e33-e2e52c252921")
+		(property "Sheetname" "audio_amp"
+			(at 33.02 144.0684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,8 +30,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "555_timer.kicad_sch"
-			(at 48.26 121.2346 0)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 33.02 175.8446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,16 +40,16 @@
 			)
 		)
 		(instances
-			(project "DrawSchematic"
-				(path "/65fc31cb-d80e-4d8e-8c07-0f1fb5255ca3"
-					(page "2")
+			(project "Mixed_Signals"
+				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147"
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 196.85 96.52)
-		(size 45.72 25.4)
+		(at 203.2 31.75)
+		(size 44.45 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -69,9 +62,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "a4d06329-6655-4968-839e-bd5fcdab1cb6")
-		(property "Sheetname" "Mounting Holes and Fudicials"
-			(at 196.85 95.8084 0)
+		(uuid "2b1b6019-9328-4d81-84dd-1da4a920573e")
+		(property "Sheetname" "mcu_unit"
+			(at 203.2 31.0384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79,8 +72,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "mounting_fudicials.kicad_sch"
-			(at 196.85 122.5046 0)
+		(property "Sheetfile" "mcu_schematic.kicad_sch"
+			(at 203.2 62.8146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -89,16 +82,16 @@
 			)
 		)
 		(instances
-			(project "DrawSchematic"
-				(path "/65fc31cb-d80e-4d8e-8c07-0f1fb5255ca3"
+			(project "Mixed_Signals"
+				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147"
 					(page "4")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 123.19 95.25)
-		(size 41.91 25.4)
+		(at 29.21 29.21)
+		(size 39.37 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -111,9 +104,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "ecdf23e1-34a9-4383-9b2c-2fb0c7c80e3f")
+		(uuid "9640df91-4374-4f60-a48c-a90bbdecf843")
 		(property "Sheetname" "power"
-			(at 123.19 94.5384 0)
+			(at 29.21 28.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -122,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 123.19 121.2346 0)
+			(at 29.21 60.2746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -131,9 +124,9 @@
 			)
 		)
 		(instances
-			(project "DrawSchematic"
-				(path "/65fc31cb-d80e-4d8e-8c07-0f1fb5255ca3"
-					(page "3")
+			(project "Mixed_Signals"
+				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147"
+					(page "2")
 				)
 			)
 		)
