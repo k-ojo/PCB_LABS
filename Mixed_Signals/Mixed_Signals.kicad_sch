@@ -6,48 +6,6 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 33.02 144.78)
-		(size 41.91 30.48)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "0f27f492-723c-4b27-8e33-e2e52c252921")
-		(property "Sheetname" "audio_amp"
-			(at 33.02 144.0684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 33.02 175.8446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Mixed_Signals"
-				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 203.2 31.75)
 		(size 44.45 30.48)
 		(exclude_from_sim no)
@@ -74,6 +32,48 @@
 		)
 		(property "Sheetfile" "mcu_schematic.kicad_sch"
 			(at 203.2 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mixed_Signals"
+				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 124.46)
+		(size 46.99 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b9d3b94-641f-4675-8e39-e97b3f26a75e")
+		(property "Sheetname" "amplifier_sch"
+			(at 35.56 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amplifier_sch.kicad_sch"
+			(at 35.56 158.0646 0)
 			(effects
 				(font
 					(size 1.27 1.27)

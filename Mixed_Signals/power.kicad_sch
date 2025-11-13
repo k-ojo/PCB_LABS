@@ -643,7 +643,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6f48335-c241-4dec-89e7-620e2ae2c351")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR01"
 			(at 172.72 109.22 0)
 			(effects
 				(font
@@ -693,7 +693,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/9640df91-4374-4f60-a48c-a90bbdecf843"
-					(reference "#PWR04")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)

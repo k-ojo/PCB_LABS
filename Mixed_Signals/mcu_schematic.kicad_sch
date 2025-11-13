@@ -1690,7 +1690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22686c9f-fbeb-4ced-915d-dd209de0c10f")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 158.3533 54.61 0)
 			(effects
 				(font
@@ -1835,7 +1835,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -1851,7 +1851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66ed8b4c-8b61-4da5-97cf-f1976e37362f")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR06"
 			(at 153.67 139.7 0)
 			(effects
 				(font
@@ -1901,7 +1901,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "#PWR03")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -1917,7 +1917,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f5aa8e6-7ebf-41d6-91d2-e7ff98521ccc")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG02"
 			(at 151.765 54.61 0)
 			(effects
 				(font
@@ -1968,7 +1968,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "#FLG04")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -1984,7 +1984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "849678d6-28dc-413f-946f-37cca97cf250")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG01"
 			(at 118.745 71.12 0)
 			(effects
 				(font
@@ -2035,7 +2035,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "#FLG03")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -2051,7 +2051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87ce9b32-a0cd-43e3-9af0-90e3bfe4a828")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG03"
 			(at 156.21 48.895 0)
 			(effects
 				(font
@@ -2101,7 +2101,7 @@
 		(instances
 			(project ""
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "#FLG01")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -2117,7 +2117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af25dca4-64eb-424e-81da-424579d542b6")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR07"
 			(at 160.02 139.7 0)
 			(effects
 				(font
@@ -2167,7 +2167,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "#PWR02")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -2183,7 +2183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba898620-a97f-43ad-950d-a8c0078f3ca7")
-		(property "Reference" "R1"
+		(property "Reference" "R4"
 			(at 135.89 57.1499 0)
 			(effects
 				(font
@@ -2237,7 +2237,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "R1")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -2253,7 +2253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2fce6a0-c311-439c-83b4-e20019b6f087")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG04"
 			(at 158.75 130.175 0)
 			(effects
 				(font
@@ -2303,7 +2303,7 @@
 		(instances
 			(project ""
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "#FLG02")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -2319,7 +2319,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f372544e-51cc-4423-bf6b-49a85ea97ebf")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 116.205 62.23 0)
 			(effects
 				(font
@@ -2371,7 +2371,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -2387,7 +2387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa681043-9ec3-47ca-8359-63cc756299b7")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR04"
 			(at 120.65 78.74 0)
 			(effects
 				(font
@@ -2437,7 +2437,7 @@
 		(instances
 			(project "Mixed_Signals"
 				(path "/2e22a617-e9e9-4deb-b0d2-03da1faa5147/2b1b6019-9328-4d81-84dd-1da4a920573e"
-					(reference "#PWR01")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
