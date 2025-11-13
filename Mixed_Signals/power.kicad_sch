@@ -521,7 +521,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 166.37 88.138 90)
 			(effects
 				(font
@@ -591,7 +591,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 173.6852 96.52 0)
 			(effects
 				(font
