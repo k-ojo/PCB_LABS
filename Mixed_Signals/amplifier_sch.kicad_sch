@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "044d0d0b-3829-4f8e-b2ab-595c29cd4e95")
+	(uuid "ec8ba31b-4a03-47ae-a3a1-d31546d9936f")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
@@ -946,7 +946,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 133.35 79.502 90)
 			(effects
 				(font
@@ -1014,7 +1014,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 81.28 90.17 0)
 			(effects
 				(font
@@ -1082,7 +1082,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 109.22 91.948 90)
 			(effects
 				(font
@@ -1150,7 +1150,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 113.03 93.472 90)
 			(effects
 				(font
@@ -1219,7 +1219,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 128.27 92.71 0)
 			(effects
 				(font
@@ -1468,7 +1468,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 108.458 120.65 90)
 			(effects
 				(font
