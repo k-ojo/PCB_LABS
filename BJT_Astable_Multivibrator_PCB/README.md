@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="/PCB_LABS/captures/BJT_Astable_Multivibrator_PCB.png" alt="3D PCB" width="500"/>
+  <img src="captures/BJT_Astable_Multivibrator_PCB.png" alt="3D PCB" width="500"/>
 </p>
