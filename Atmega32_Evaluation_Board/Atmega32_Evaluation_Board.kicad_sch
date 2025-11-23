@@ -1,0 +1,146 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6c4a903a-5b2c-4fff-b670-18618cb937b9")
+	(paper "A4")
+	(title_block
+		(title "Atmega32 Evaluation Board")
+		(date "2025-11-14")
+		(company "Pilolo Electronics")
+		(comment 1 "Project assignment")
+	)
+	(lib_symbols)
+	(sheet
+		(at 177.8 38.1)
+		(size 57.15 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "160c6ff6-4897-4348-9a8b-93014dc18887")
+		(property "Sheetname" "Connector"
+			(at 177.8 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 177.8 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Atmega32_Evaluation_Board"
+				(path "/6c4a903a-5b2c-4fff-b670-18618cb937b9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 40.64)
+		(size 62.23 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "54d2ed40-1f91-4b61-8c64-2bf362b274a1")
+		(property "Sheetname" "Microcontroller"
+			(at 93.98 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 93.98 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Atmega32_Evaluation_Board"
+				(path "/6c4a903a-5b2c-4fff-b670-18618cb937b9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 26.67 39.37)
+		(size 45.72 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7cce94c-acc5-4d67-960f-cff46a0a01c1")
+		(property "Sheetname" "Power"
+			(at 26.67 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 26.67 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Atmega32_Evaluation_Board"
+				(path "/6c4a903a-5b2c-4fff-b670-18618cb937b9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
