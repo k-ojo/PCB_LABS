@@ -1572,7 +1572,7 @@
 		)
 		(uuid "0f9bc49d-ef6b-48a3-afcc-6dbbb3ef1ca3")
 	)
-	(text "+3.3V AnalogPowe"
+	(text "+3.3V AnalogPower\n"
 		(exclude_from_sim no)
 		(at 137.16 154.94 0)
 		(effects
@@ -2375,6 +2375,16 @@
 			(type default)
 		)
 		(uuid "fe1fab30-3635-47b5-aff5-29ef193574f5")
+	)
+	(label "9VD"
+		(at 128.27 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "756443c6-7801-430f-99fd-876a6b066710")
 	)
 	(global_label "+5VD"
 		(shape input)
@@ -3313,7 +3323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-079BH_Horizontal"
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
 			(at 73.66 86.106 0)
 			(effects
 				(font

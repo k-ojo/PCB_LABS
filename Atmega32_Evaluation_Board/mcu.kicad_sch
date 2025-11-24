@@ -2260,6 +2260,16 @@
 		)
 		(uuid "ff4b1e64-77a7-4f36-9cce-e97df48a0f79")
 	)
+	(label "AREF"
+		(at 172.72 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "afc8221b-df5a-430a-b227-59c7c3e54a49")
+	)
 	(global_label "PC2"
 		(shape input)
 		(at 209.55 95.25 0)
