@@ -1,2 +1,5 @@
 # PCB_LABS
-This is a repository for all my learning PCB design projects using KiCAD 
+
+<p align="center">
+  <img src="/Logo/logo.png" alt="Logo" width="200">
+</p>
